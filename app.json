@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "3_uzduot",
+    "slug": "3_uzduot",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "3_uzduot"
+}
